@@ -1,1 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+.newspaper-container {
+    width: 700px;
+    border-radius: 2%;
+    box-shadow: 2px 2px black;
+    padding: 1em 2em 1em 2em;
+}
+
+.date {
+    text-align: left;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    word-spacing: 5px;
+    margin: none;
+}
+
+ul {
+    border-top: 0.2em solid black;
+    border-bottom: 0.2em solid black;
+}
